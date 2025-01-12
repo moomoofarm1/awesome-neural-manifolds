@@ -1,4 +1,4 @@
-# awesome_neural_manifolds
+# Awesome neural manifolds
 
 A curated list containing neural manifold articles on top neuroscience-related journals.
 
