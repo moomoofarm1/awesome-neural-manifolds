@@ -1,6 +1,6 @@
 # Awesome neural manifolds
 
-A curated list containing neural manifold articles on top neuroscience-related journals.
+A curated list containing neural manifold articles on top neuroscience-related journals. The list is in an alphabetical order.
 
 1. [Gallese, V. (2003). The manifold nature of interpersonal relations: the quest for a common mechanism. Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences, 358(1431), 517-528.](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2002.1234)
 2. [Gardner, R. J., Hermansen, E., Pachitariu, M., Burak, Y., Baas, N. A., Dunn, B. A., ... & Moser, E. I. (2022). Toroidal topology of population activity in grid cells. Nature, 602(7895), 123-128.](https://www.nature.com/articles/s41586-021-04268-7)
