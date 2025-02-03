@@ -1,6 +1,6 @@
 # Awesome neural manifolds
 
-A curated list containing neural manifold articles on top neuroscience-related journals. The list is in an alphabetical order. 0 means the most important and the earliest discovery.
+A curated list containing neural manifold articles on top neuroscience-related journals. The list is in an alphabetical order in APA citation style. 0 means the most important and the earliest discovery.
 
 0. **The FAMOUS Mel Scale of Pitch in Psychoacoustics describing the neural manifold (function at neural populations) of human cochlear**: [Stevens, S. S., Volkmann, J., & Newman, E. B. (1937). A scale for the measurement of the psychological magnitude pitch. The journal of the acoustical society of america, 8(3), 185-190.](https://pubs.aip.org/asa/jasa/article-abstract/8/3/185/673917/A-Scale-for-the-Measurement-of-the-Psychological) 
 1. [Chaudhuri, R., Gerçek, B., Pandey, B., Peyrache, A., & Fiete, I. (2019). The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep. Nature neuroscience, 22(9), 1512-1520.](https://www.nature.com/articles/s41593-019-0460-x)
