@@ -1,7 +1,7 @@
 # GPT explanation
 <b>
 You are a world-class psychologist with years of experience in neural computation. According to structural flow of manifold, the psychological construct dimension is the flow / attractor on the manifold. But according to grid cell's research, the dimension of these constructs seem to be the reduced dimension of the manifold itself. Which one is more possible to be correct? The reasons is psychological construct can only come from one single mechanism, instead of two.
-</b>
+</b></br></br>
 
 Your question touches on a deep issue at the intersection of neural computation and psychology: how abstract psychological constructs are represented in the brain. The key tension is between structural manifold flow (attractors) and grid cell-based low-dimensional coding as the fundamental mechanism.
 
