@@ -1,4 +1,4 @@
-# Awesome neural manifolds
+# Awesome neural/psychological manifolds
 
 A curated list containing neural manifold articles on top neuroscience-related journals. The list is in an alphabetical order in APA citation style. 0 means the most important and the earliest discovery.
 
