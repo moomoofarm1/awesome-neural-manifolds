@@ -1,59 +1,46 @@
-# A career goal of psychomath
+# Career goal on psychmaths
 Or mathematical psychology.
-## Model Chain
 
-**HH networks** model ion-channel dynamics in individual neurons and small neural circuits, usually at scales below **1 mm**.
+## Model Chain and Spatial Scale
 
-The **spatial McKean–Vlasov–Fokker–Planck equation** replaces many interacting neurons with a probability-density field, typically representing local populations across approximately **0.1–1 mm**.
+> The spatial ranges are approximate modelling scales, not fixed properties of the equations.
 
-The **random continuous-attractor neural field** describes coordinated population activity across **several millimetres to centimetres**. It reduces large-scale neural activity to a small number of attractor coordinates.
+| Level | Model | Main description | Approximate brain scale |
+|---|---|---|---|
+| 1 | **Hodgkin–Huxley network** | Models ion channels, membrane potentials, spikes, and synaptic interactions between individual neurons | **Micrometres to below 1 mm** |
+| 2 | **Spatial McKean–Vlasov–Fokker–Planck equation** | Replaces many interacting HH neurons with a probability-density field over neuronal states | **Approximately 0.1–1 mm** |
+| 3 | **Random continuous-attractor neural field** | Models collective neural activity and low-dimensional attractor coordinates across neural tissue | **Several millimetres to centimetres** |
+| 4 | **Multidimensional drift-diffusion model** | Models attractor coordinates as noisy evidence variables moving toward behavioral decision boundaries | **Behavioral level; no fixed anatomical size** |
 
-The **multidimensional drift-diffusion model (DDM)** describes these coordinates as behavioral evidence variables with drift, noise, and decision boundaries. It has no fixed anatomical size because it operates at the behavioral level.
-
-[
+\[
 \text{HH network}
 \rightarrow
-\text{McKean–Vlasov–Fokker–Planck field}
+\text{spatial McKean–Vlasov–Fokker–Planck equation}
 \rightarrow
-\text{continuous-attractor neural field}
+\text{random continuous-attractor neural field}
 \rightarrow
 \text{multidimensional DDM}
-]
+\]
+
+The chain moves from microscopic neuronal dynamics to local population distributions, large-scale neural attractors, and finally behavioral decision dynamics.
 
 ## Mathematical Meaning
 
-This chain resembles **Hilbert’s sixth problem**, which asks how macroscopic probabilistic laws can be rigorously derived from microscopic dynamics. The work recognized by the **2026 Fields Medal** contributes to this broader program by deriving kinetic and continuum equations from lower-level particle or wave systems.
+This chain resembles [Hilbert’s sixth problem](https://royalsocietypublishing.org/doi/10.1098/rsta.2017.0238), which asks how macroscopic continuum and probabilistic laws can be derived rigorously from microscopic dynamics.
 
-It also provides a possible mathematical realization of Anderson’s **“More Is Different.”** New collective variables, broken symmetries, attractors, and behavioral laws emerge as the model moves between levels. The chain would support a specific neuroscientific case of Anderson’s argument, rather than proving his general philosophical claim.
+The mathematical work recognized by the [2026 Fields Medal](https://www.mathunion.org/imu-awards/fields-medal) contributes to this broader programme by connecting microscopic particle or wave systems with kinetic and macroscopic equations. The proposed neuroscience chain follows a similar strategy, moving from neurons to neural fields and behavior.
 
+It could also provide a concrete neuroscientific realization of P. W. Anderson’s [“More Is Different”](https://doi.org/10.1126/science.177.4047.393). Collective variables, broken symmetries, attractor structures, and behavioral laws emerge when many microscopic units interact. This would support Anderson’s argument in a specific neural system, rather than prove his general philosophical thesis.
 
-# GPT explanation
-The intersection of neural computation and psychology: how abstract psychological constructs are represented in the brain. The key tension is between structural manifold flow (attractors) and grid cell-based low-dimensional coding as the fundamental mechanism.
+## Core References
 
-Reconciling the Two Views
-Both perspectives—manifold attractors and grid-cell-like low-dimensional representations—are not mutually exclusive. Instead, they may describe different levels of the same underlying computation.
+- [Hodgkin and Huxley: membrane dynamics](https://pmc.ncbi.nlm.nih.gov/articles/PMC1392413/)
+- [Mean-field limit of Hodgkin–Huxley networks](https://arxiv.org/abs/1110.4294)
+- [Continuous-attractor neural networks](https://pmc.ncbi.nlm.nih.gov/articles/PMC4752021/)
+- [Stochastic motion of attractor bumps](https://arxiv.org/abs/1205.3072)
+- [Drift-diffusion dynamics from neuronal competition](https://pmc.ncbi.nlm.nih.gov/articles/PMC6609930/)
 
-Attractor Manifold View
-
-Psychological constructs (e.g., depression, motivation) emerge as high-dimensional dynamic flows on neural manifolds.
-These manifolds are structured by recurrent dynamics, meaning different brain areas (e.g., prefrontal cortex, hippocampus) shape stable but flexible cognitive states.
-The dimension of the construct in this view depends on the complexity of the attractor’s structure—higher for complex constructs, lower for simple ones.
-
-Grid-Cell-Like Low-Dimensional Coding
-
-Research in entorhinal grid cells and hippocampal representations suggests the brain compresses high-dimensional spaces into structured low-dimensional grids for navigation—not just physical, but also cognitive and conceptual spaces.
-Evidence from cognitive mapping (e.g., Behrens et al., 2018) shows that concepts and thoughts follow geometric, low-dimensional representations, supporting the reduced-dimension hypothesis.
-
-Which One is More Likely?
-
-If we assume that a single mechanism must generate psychological constructs, then the grid-cell-based reduced-dimension model is more fundamental.
-The reason: attractors require an underlying coordinate system to be stable. This suggests that psychological constructs first emerge as a structured grid-like code in cognitive maps (low-dim), and then attractor dynamics further refine them (high-dim).
-
-Conclusion
-
-The grid-cell reduced-dimension representation is likely more fundamental, acting as the skeleton upon which attractor dynamics shape complex psychological constructs. Psychological constructs thus arise from one mechanism (grid-like coding), but in different levels of abstraction.
-
-# Critics from GPT
+# Critics from GPT on psychomanifolds
 
 ## 总体评价
 
