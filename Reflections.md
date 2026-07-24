@@ -1,3 +1,32 @@
+# A career goal of psychomath
+Or mathematical psychology.
+## Model Chain
+
+**HH networks** model ion-channel dynamics in individual neurons and small neural circuits, usually at scales below **1 mm**.
+
+The **spatial McKean–Vlasov–Fokker–Planck equation** replaces many interacting neurons with a probability-density field, typically representing local populations across approximately **0.1–1 mm**.
+
+The **random continuous-attractor neural field** describes coordinated population activity across **several millimetres to centimetres**. It reduces large-scale neural activity to a small number of attractor coordinates.
+
+The **multidimensional drift-diffusion model (DDM)** describes these coordinates as behavioral evidence variables with drift, noise, and decision boundaries. It has no fixed anatomical size because it operates at the behavioral level.
+
+[
+\text{HH network}
+\rightarrow
+\text{McKean–Vlasov–Fokker–Planck field}
+\rightarrow
+\text{continuous-attractor neural field}
+\rightarrow
+\text{multidimensional DDM}
+]
+
+## Mathematical Meaning
+
+This chain resembles **Hilbert’s sixth problem**, which asks how macroscopic probabilistic laws can be rigorously derived from microscopic dynamics. The work recognized by the **2026 Fields Medal** contributes to this broader program by deriving kinetic and continuum equations from lower-level particle or wave systems.
+
+It also provides a possible mathematical realization of Anderson’s **“More Is Different.”** New collective variables, broken symmetries, attractors, and behavioral laws emerge as the model moves between levels. The chain would support a specific neuroscientific case of Anderson’s argument, rather than proving his general philosophical claim.
+
+
 # GPT explanation
 The intersection of neural computation and psychology: how abstract psychological constructs are represented in the brain. The key tension is between structural manifold flow (attractors) and grid cell-based low-dimensional coding as the fundamental mechanism.
 
