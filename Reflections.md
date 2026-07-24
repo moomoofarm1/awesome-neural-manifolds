@@ -12,15 +12,9 @@ Or mathematical psychology.
 | 3 | **Random continuous-attractor neural field** | Models collective neural activity and low-dimensional attractor coordinates across neural tissue | **Several millimetres to centimetres** |
 | 4 | **Multidimensional drift-diffusion model** | Models attractor coordinates as noisy evidence variables moving toward behavioral decision boundaries | **Behavioral level; no fixed anatomical size** |
 
-\[
-\text{HH network}
-\rightarrow
-\text{spatial McKean–Vlasov–Fokker–Planck equation}
-\rightarrow
-\text{random continuous-attractor neural field}
-\rightarrow
-\text{multidimensional DDM}
-\]
+$$
+\text{HH network} \rightarrow \text{spatial McKean–Vlasov–Fokker–Planck equation} \rightarrow \text{random continuous-attractor neural field} \rightarrow \text{multidimensional DDM}
+$$
 
 The chain moves from microscopic neuronal dynamics to local population distributions, large-scale neural attractors, and finally behavioral decision dynamics.
 
