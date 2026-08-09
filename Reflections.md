@@ -1,5 +1,7 @@
 # Levels of manifolds in psychology (Psychological geometry)
+
 According to the paper ([Roads, & Love, 2024a](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-040323-115131), and [Roads, & Love, 2024b](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00189-X)), the manifold/psychological space could exist on multiple levels, one from the observed data (stimulus, neural & behavioral data), and another from the hierarchical higher-older from the one got from these data.
+
 Therefore, by referring to the paper on the neural-manifold hypothesis ([Lei et al., 2020](https://www.sciencedirect.com/science/article/pii/S2095809919302279)), one can have three levels of manifolds in psychology, or the geometry of psychology.
 
 Psychological geometry can be conceptualized at multiple levels. These levels differ primarily in **what constitutes a point**, **what relations define the geometry**, and **what psychological process the geometry represents**.
@@ -18,11 +20,9 @@ Examples include:
 
 Formally,
 
-\[
-x \in \mathcal{M}_{\text{data}} \subseteq \mathbb{R}^{D},
-\]
+$$x \in \mathcal{M}_{\text{data}} \subseteq \mathbb{R}^{D}$$
 
-where \(x\) is an observation and \(\mathcal{M}_{\text{data}}\) represents the intrinsic structure underlying high-dimensional observed data.
+where $x$ is an observation and $\mathcal{M}_{\text{data}}$ represents the intrinsic structure underlying high-dimensional observed data.
 
 Thus, at this level:
 
@@ -38,19 +38,11 @@ A statistical manifold operates at a different level of description. Instead of 
 
 For example,
 
-\[
-\mathcal{M}_{\text{stat}}
-=
-\{p(x\mid\theta):\theta\in\Theta\}.
-\]
+$$\mathcal{M}_{\text{stat}} = \{p(x\mid\theta):\theta\in\Theta\}$$
 
 Two points on this manifold might therefore correspond to
 
-\[
-p(x\mid\theta_1)
-\qquad\text{and}\qquad
-p(x\mid\theta_2),
-\]
+$$p(x\mid\theta_1) \quad\text{and}\quad p(x\mid\theta_2)$$
 
 rather than to two individual observations.
 
@@ -62,13 +54,7 @@ Thus:
 
 Importantly, the statistical manifold should not be understood as literally contained inside the data manifold. Rather, the two are linked through a **generative relationship**:
 
-\[
-\mathcal{M}_{\text{stat}}
-\longrightarrow
-p(x)
-\longrightarrow
-x\in\mathcal{M}_{\text{data}}.
-\]
+$$\mathcal{M}_{\text{stat}} \longrightarrow p(x) \longrightarrow x\in\mathcal{M}_{\text{data}}$$
 
 In psychological terms, a latent psychological state may define a probability distribution over possible behavioral, neural, or stimulus-related observations.
 
@@ -80,29 +66,15 @@ The third level concerns the **geometry of psychological decision making**.
 
 Human decision making is often naturally represented as a branching process:
 
-\[
-\text{state}
-\rightarrow
-\text{choice}
-\rightarrow
-\text{new state}
-\rightarrow
-\text{choice}
-\rightarrow
-\cdots
-\]
+$$\text{state} \rightarrow \text{choice} \rightarrow \text{new state} \rightarrow \text{choice} \rightarrow \cdots$$
 
 A decision tree therefore provides a useful discrete approximation to the structure of such a process. Different branches represent alternative decisions, while successive levels represent increasingly specific states, hypotheses, interpretations, or actions.
 
 Because tree-like structures expand approximately exponentially with depth, **hyperbolic geometry** is particularly suitable for representing them.
 
-Formally, the decision structure can be represented as a graph \(G\) embedded within a hyperbolic manifold:
+Formally, the decision structure can be represented as a graph $G$ embedded within a hyperbolic manifold:
 
-\[
-G_{\text{decision}}
-\hookrightarrow
-\mathbb{H}^{n}.
-\]
+$$G_{\text{decision}} \hookrightarrow \mathbb{H}^{n}$$
 
 Strictly speaking, the branching decision tree itself need not be a smooth mathematical manifold. Rather, the **decision manifold** refers to the continuous geometric representational space in which this tree-like decision structure is embedded.
 
@@ -112,18 +84,7 @@ Thus:
 
 For example:
 
-\[
-\text{uncertain situation}
-\rightarrow
-\begin{cases}
-\text{interpretation A}
-\rightarrow
-\text{action A}_1,\text{ action A}_2\\
-\text{interpretation B}
-\rightarrow
-\text{action B}_1,\text{ action B}_2
-\end{cases}
-\]
+$$\text{uncertain situation} \rightarrow \begin{cases} \text{interpretation A} \rightarrow \text{action A}_1, \text{ action A}_2 \\ \text{interpretation B} \rightarrow \text{action B}_1, \text{ action B}_2 \end{cases}$$
 
 can be interpreted geometrically as movement through a branching region of a negatively curved space.
 
@@ -131,34 +92,30 @@ The term **decision manifold** is therefore intentional: the aim is not simply t
 
 ---
 
-# A Three-Level Framework
+## A Three-Level Framework
 
 The resulting framework can be summarized as:
 
-\[
-\boxed{
-\begin{array}{c}
-\textbf{Level 3: Decision manifold}\\
-\text{point = decision / hypothesis / action state}\\
-\text{structure = branching trajectories}\\
-\text{candidate geometry = hyperbolic geometry}
-\\[10pt]
-\uparrow\;\text{inference / abstraction / decision}
-\\[10pt]
-\textbf{Level 2: Statistical manifold}\\
-\text{point = probability distribution}\\
-\text{structure = relations among probabilistic states}\\
-\text{geometry = information geometry}
-\\[10pt]
-\downarrow\;\text{probabilistic generation}
-\\[10pt]
-\textbf{Level 1: Data manifold}\\
-\text{point = observation}\\
-\text{structure = empirical relationships among observations}\\
-\text{examples = neural, behavioral, and stimulus manifolds}
-\end{array}
-}
-\]
+```
+Level 3: Decision manifold
+  point = decision / hypothesis / action state
+  structure = branching trajectories
+  candidate geometry = hyperbolic geometry
+
+  ↑ inference / abstraction / decision
+
+Level 2: Statistical manifold
+  point = probability distribution
+  structure = relations among probabilistic states
+  geometry = information geometry
+
+  ↓ probabilistic generation
+
+Level 1: Data manifold
+  point = observation
+  structure = empirical relationships among observations
+  examples = neural, behavioral, and stimulus manifolds
+```
 
 The three levels therefore answer three different questions:
 
@@ -170,22 +127,19 @@ The three levels therefore answer three different questions:
 
 The central proposal is therefore not that these three objects are mathematically identical kinds of manifolds, but that **geometric representations can operate at three progressively more abstract levels of psychological organization**:
 
-\[
-\boxed{
-\text{observations}
-\rightarrow
-\text{probabilistic states}
-\rightarrow
-\text{decision trajectories}
-}
-\]
+```
+observations → probabilistic states → decision trajectories
+```
 
 This formulation also makes the role of the third level clearer: **hyperbolic geometry is proposed not merely because psychological concepts can be hierarchical, but because human decision making itself can generate branching, tree-like trajectories whose geometry may be represented efficiently in negatively curved space.**
+
+---
+
 # Career goal on psychomaths
 
 Or mathematical psychology: using geometry and dynamics as a common language across psychological measurement, cognition, behavior, and neural population activity.
 
-## From psychophysics to psychological manifolds (1860–Now[2026])
+## From psychophysics to psychological manifolds (1860–2026)
 
 Psychological manifolds can be understood as a modern continuation of psychophysics. The line begins slightly before Wundt: Weber and Fechner asked whether subjective sensation could be measured as a lawful function of physical stimulation. Fechner's *Elemente der Psychophysik* (1860) formalized this program. Wundt then made controlled measurement central to experimental psychology and founded the Leipzig laboratory in 1879. The first problem was therefore geometric in a simple sense: how does a physical axis map onto a subjective axis?
 
@@ -226,9 +180,7 @@ A useful research program therefore has three stages: recover a geometry from ob
 | 3 | **Random continuous-attractor neural field** | Models collective neural activity and low-dimensional attractor coordinates across neural tissue | **Several millimetres to centimetres** |
 | 4 | **Multidimensional drift-diffusion model** | Models attractor coordinates as noisy evidence variables moving toward behavioral decision boundaries | **Behavioral level; no fixed anatomical size** |
 
-$$
-\text{HH network} \rightarrow \text{spatial McKean–Vlasov–Fokker–Planck equation} \rightarrow \text{random continuous-attractor neural field} \rightarrow \text{multidimensional DDM}
-$$
+$$\text{HH network} \rightarrow \text{spatial McKean–Vlasov–Fokker–Planck equation} \rightarrow \text{random continuous-attractor neural field} \rightarrow \text{multidimensional DDM}$$
 
 The chain moves from microscopic neuronal dynamics to local population distributions, large-scale neural attractors, and finally behavioral decision dynamics.
 
@@ -236,7 +188,7 @@ The chain moves from microscopic neuronal dynamics to local population distribut
 
 This chain resembles [Hilbert's sixth problem](https://royalsocietypublishing.org/doi/10.1098/rsta.2017.0238): deriving macroscopic continuum and probabilistic laws from microscopic dynamics. In the proposed neuroscience chain, the analogous goal is to connect neuron-level dynamics to population fields and then to low-dimensional behavioral variables without assuming that the levels are identical.
 
-It also gives a concrete interpretation of P. W. Anderson's [“More Is Different”](https://doi.org/10.1126/science.177.4047.393): collective variables, attractors, symmetries, and behavioral laws can emerge when many microscopic units interact.
+It also gives a concrete interpretation of P. W. Anderson's ["More Is Different"](https://doi.org/10.1126/science.177.4047.393): collective variables, attractors, symmetries, and behavioral laws can emerge when many microscopic units interact.
 
 ## Core references for the model chain
 
@@ -246,4 +198,4 @@ It also gives a concrete interpretation of P. W. Anderson's [“More Is Differen
 - [Stochastic motion of attractor bumps](https://arxiv.org/abs/1205.3072)
 - [Drift-diffusion dynamics from neuronal competition](https://pmc.ncbi.nlm.nih.gov/articles/PMC6609930/)
 
-The historical papers behind the psychophysics-to-manifold argument are collected in the README subsection **“Psychological manifolds originated from psychophysics.”**
+The historical papers behind the psychophysics-to-manifold argument are collected in the README subsection **"Psychological manifolds originated from psychophysics."**
