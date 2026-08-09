@@ -2,7 +2,7 @@
 
 Or mathematical psychology: using geometry and dynamics as a common language across psychological measurement, cognition, behavior, and neural population activity.
 
-## From psychophysics to psychological manifolds (1860–2026)
+## From psychophysics to psychological manifolds (1860–Now[2026])
 
 Psychological manifolds can be understood as a modern continuation of psychophysics. The line begins slightly before Wundt: Weber and Fechner asked whether subjective sensation could be measured as a lawful function of physical stimulation. Fechner's *Elemente der Psychophysik* (1860) formalized this program. Wundt then made controlled measurement central to experimental psychology and founded the Leipzig laboratory in 1879. The first problem was therefore geometric in a simple sense: how does a physical axis map onto a subjective axis?
 
