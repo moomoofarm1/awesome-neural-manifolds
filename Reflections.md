@@ -1,3 +1,9 @@
+---
+title: "Reflections"
+author: "Zhuojun Gu"
+date: "2026-08-10"
+---
+
 # Levels of manifolds in psychology (Psychological geometry)
 
 According to the paper ([Roads, & Love, 2024a](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-040323-115131), and [Roads, & Love, 2024b](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00189-X)), the manifold/psychological space could exist on multiple levels, one from the observed data (stimulus, neural & behavioral data), and another from the hierarchical higher-older from the one got from these data.
