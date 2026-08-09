@@ -1,5 +1,5 @@
 # Levels of manifolds in psychology (Psychological geometry)
-According to the paper ([Roads, & Love, 2024a](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-040323-115131), and [Roads, & Love, 2024b]()), the manifold/psychological space could exist on multiple levels, one from the observed data (stimulus, neural & behavioral data), and another from the hierarchical higher-older from the one got from these data.
+According to the paper ([Roads, & Love, 2024a](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-040323-115131), and [Roads, & Love, 2024b](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00189-X)), the manifold/psychological space could exist on multiple levels, one from the observed data (stimulus, neural & behavioral data), and another from the hierarchical higher-older from the one got from these data.
 Therefore, by referring to the paper on the neural-manifold hypothesis ([Lei et al., 2020](https://www.sciencedirect.com/science/article/pii/S2095809919302279)), one can have three levels of manifolds in psychology, or the geometry of psychology.
 
 Psychological geometry can be conceptualized at multiple levels. These levels differ primarily in **what constitutes a point**, **what relations define the geometry**, and **what psychological process the geometry represents**.
