@@ -1,7 +1,7 @@
 ---
-title: "Reflections"
-author: "Zhuojun Gu"
-date: "2026-08-10"
+Title: "Reflections"
+Author: "Zhuojun Gu"
+Date: "2026-08-10"
 ---
 
 # Levels of manifolds in psychology (Psychological geometry)
