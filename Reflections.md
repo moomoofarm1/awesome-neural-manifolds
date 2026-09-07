@@ -1,8 +1,16 @@
 ---
 Title: "Reflections"
 Author: "Zhuojun Gu"
-Date: "2026-08-10"
+Date: "2026-09-07"
 ---
+
+# Bizarre questions may reduce/contribute to toothbrush problem in psychology
+- Psychologists used positive manifold but referring to positive correlation, not the manifold concept in machine learning and deep learning.
+- Psychologists never think about the ZG Conjecture: Mathematically prove that the Hodgkin–Huxley model (H-H formular) could lead to neural population equations, and then to continuous attractor equations, and then finally to Drift-Diffusion models in reaction time behavior, akin to 2026 Fields Medal's owner Yu Deng's [work](https://euromathsoc.org/news/2026-fields-medallists-and-imu-prize-winners-announced-222). 
+
+Ref of the title
+1. [Elson, M., Hussey, I., Alsalti, T., & Arslan, R. C. (2023). Psychological measures aren’t toothbrushes. Communications Psychology, 1(1), 25.](https://www.nature.com/articles/s44271-023-00026-9)
+2. [Anvari, F., Alsalti, T., Oehler, L. A., Hussey, I., Elson, M., & Arslan, R. C. (2025). Defragmenting psychology. Nature Human Behaviour, 9(5), 836-839.](https://www.nature.com/articles/s41562-025-02138-0)
 
 # Levels of manifolds in psychology (Psychological geometry)
 
