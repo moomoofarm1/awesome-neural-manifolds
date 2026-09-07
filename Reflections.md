@@ -5,8 +5,9 @@ Date: "2026-09-07"
 ---
 
 # Bizarre questions may reduce/contribute to toothbrush problem in psychology
-- Psychologists used positive manifold but referring to positive correlation, not the manifold concept in machine learning and deep learning.
-- Psychologists never think about the ZG Conjecture: Mathematically prove that the Hodgkin–Huxley model (H-H formular) could lead to neural population equations, and then to continuous attractor equations, and then finally to Drift-Diffusion models in reaction time behavior, akin to 2026 Fields Medal's owner Yu Deng's [work](https://euromathsoc.org/news/2026-fields-medallists-and-imu-prize-winners-announced-222). 
+1. Psychologists used positive manifold but referring to positive correlation, not the manifold concept in machine learning and deep learning.
+2. Psychologists never think about the ZG Conjecture: Mathematically prove that the Hodgkin–Huxley model (H-H formular) could lead to neural population equations, and then to continuous attractor equations, and then finally to Drift-Diffusion models in reaction time behavior, akin to 2026 Fields Medal's owner Yu Deng's [work](https://euromathsoc.org/news/2026-fields-medallists-and-imu-prize-winners-announced-222).
+3. Philosophy could be divided into two sub branches: continental philosophy, analytical philosophy. Continental philosophy is fading in popularity and has to change its direction/practice, while psychology (mainly cognitive psychology) has been largely influenced by analytical philosophy, specifically philosophy of mind (e.g., Modular brain by Fodor), clinical psychology still adopts the phenomenology into its practice/research which originates from continental philosophy.
 
 Ref of the title
 1. [Elson, M., Hussey, I., Alsalti, T., & Arslan, R. C. (2023). Psychological measures aren’t toothbrushes. Communications Psychology, 1(1), 25.](https://www.nature.com/articles/s44271-023-00026-9)
