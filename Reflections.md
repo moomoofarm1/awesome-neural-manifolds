@@ -1,7 +1,7 @@
 ---
 Title: "Reflections"
 Author: "Zhuojun Gu"
-Date: "2026-09-07"
+Date: "2026-09-29"
 ---
 
 # Bizarre questions may reduce/contribute to toothbrush problem in psychology
@@ -204,6 +204,16 @@ The chain moves from microscopic neuronal dynamics to local population distribut
 This chain resembles [Hilbert's sixth problem](https://royalsocietypublishing.org/doi/10.1098/rsta.2017.0238): deriving macroscopic continuum and probabilistic laws from microscopic dynamics. In the proposed neuroscience chain, the analogous goal is to connect neuron-level dynamics to population fields and then to low-dimensional behavioral variables without assuming that the levels are identical.
 
 It also gives a concrete interpretation of P. W. Anderson's ["More Is Different"](https://doi.org/10.1126/science.177.4047.393): collective variables, attractors, symmetries, and behavioral laws can emerge when many microscopic units interact.
+
+## History of psychological manifold - 2026
+| 阶段 | 核心问题 | 代表工作 |
+|---|---|---|
+| **1904–1980s** | 心理能力为什么普遍正相关？ | Spearman → **positive manifold / g** |
+| **1980s–2000** | 心理相似性是否对应几何距离？ | Shepard → **psychological space** |
+| **2000–2010** | 高维数据能否实际由低维非线性结构产生？ | **Isomap / LLE**；van der Maas → **mutualism** |
+| **2010–2020** | 抽象知识是否真的由空间几何编码？ | Constantinescu；Behrens；Bellmund |
+| **2020–现在** | 能否用统一表征几何连接脑、行为、心理变量？ | Kriegeskorte & Wei；Roads & Love |
+Spearman 1904 → Shepard 1987 → Tenenbaum 2000 → van der Maas 2006 → Constantinescu 2016 → Behrens/Bellmund 2018 → Kriegeskorte & Wei 2021 → Roads & Love 2024。
 
 ## Core references for the model chain
 
