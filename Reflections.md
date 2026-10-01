@@ -1,7 +1,7 @@
 ---
 Title: "Reflections"
 Author: "Zhuojun Gu"
-Date: "2026-09-29"
+Date: "2026-10-01"
 ---
 
 # Bizarre questions may reduce/contribute to toothbrush problem in psychology
