@@ -184,6 +184,10 @@ Psychological functions may be modeled as geometric structures that emerge from 
 
 A useful research program therefore has three stages: recover a geometry from observations; validate its psychological distances and dynamics with independent outcomes; then test whether corresponding structure can be aligned across behavioral and neural levels. This turns the neural-manifold idea into a falsifiable program of geometric psychology rather than a purely metaphorical analogy.
 
+## Computational Finsler geometry and psychological manifolds
+
+Computational Finsler geometry offers a practical way to model psychological spaces where moving from state A to B is not equally difficult as moving back. A simple starting point is a Randers metric, which combines a local landscape with a directional "wind" that can represent easier or harder psychological change. For small clinical datasets, a low-parameter Randers model is safer than a highly flexible neural metric. FinslerMDS can learn geometry from asymmetric dissimilarities, finslerax can define and analyze Finsler metrics, and GEORCE can compute geodesic paths. Together they support a pipeline from psychological states to directional treatment trajectories, transition costs, and possible recovery paths. This framework is promising but still young, so its geometry should be validated against independent clinical or behavioral outcomes.
+
 ## Model chain and spatial scale
 
 > The spatial ranges are approximate modelling scales, not fixed properties of the equations.
