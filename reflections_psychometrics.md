@@ -246,6 +246,22 @@ The resulting tension is productive:
 
 *Across these works, three scientific tasks should stay distinct: estimating psychologically meaningful scores; recovering relational distances or coordinates; and validating curvature, directionality, or dynamics from independent behavioral evidence. A mathematically valid representation is not sufficient evidence of an intrinsic psychological manifold.*
 
+
+#### If You Read Only Six Papers, Read Them in This Order
+
+*Suggested reading sequence for beginners—not a ranking by citations or scientific importance. The papers build from simple comparisons and distance maps toward psychological meaning and modern geometric measurement.*
+
+| Read order | Paper | Why read it? |
+| --- | --- | --- |
+| **1** | [Thurstone (1927), *A Law of Comparative Judgment*](https://doi.org/10.1037/h0070288) | Start with the basic idea: people's choices between two things can help us build a psychological scale. |
+| **2** | [Torgerson (1952), *Multidimensional Scaling: I. Theory and Method*](https://doi.org/10.1007/BF02288916) | Learn how measured differences between things can be turned into a map with several dimensions. |
+| **3** | [Tversky (1977), *Features of Similarity*](https://doi.org/10.1037/0033-295X.84.4.327) | See why a simple map can be misleading: what feels similar may depend on context and on which thing is used as the reference. |
+| **4** | [Shepard (1987), *Toward a Universal Law of Generalization for Psychological Science*](https://doi.org/10.1126/science.3629243) | Discover why psychological distance matters: it can help predict whether people respond similarly to new experiences. |
+| **5** | [Dzhafarov & Colonius (2001), *Multidimensional Fechnerian Scaling: Basics*](https://doi.org/10.1006/jmps.2000.1341) | Explore a more careful way to build psychological distances from how well people can tell things apart. |
+| **6** | [Tuerlinckx & Robledo (2026), *Geodesic Ability in Unidimensional IRT Models*](https://doi.org/10.1017/psy.2026.10144) | Finish with a recent question: can we measure differences in ability without depending on arbitrary choices about the scoring scale? |
+
+*The first five are established historical or theoretical contributions. The 2026 paper is a recent proposal whose long-term influence is not yet known.*
+
 ## Open research questions
 
 - Can psychological dissimilarity judgments about language-based clinical states be collected independently of the model that generated the embeddings?
