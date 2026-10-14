@@ -212,7 +212,7 @@ The resulting tension is productive:
 18. [Tversky, A. (1977). Features of similarity. *Psychological Review, 84*(4), 327–352.](https://doi.org/10.1037/0033-295X.84.4.327) <i>Landmark demonstration that human similarity can be asymmetric and context dependent. Warns against equating every similarity score with a symmetric Euclidean psychological distance.</i>
 
 
-### geometric psychometrics
+### Geometric psychometrics
 
 *Historical reading list, 1914–2026. Alphabetical by first author, matching the numbered APA-style linked references and italicized notes above. Each note summarizes a published contribution and its bearing on geometric psychometrics; older high-impact foundations, specialized theoretical proposals, and recent exploratory work should not be confused. Some foundational works are repeated here to keep the subsection usable independently.*
 
